@@ -1,0 +1,16 @@
+{
+  "name": "fitsync-fitness-management-system",
+  "version": "1.0.0",
+  "description": "FitSync - Comprehensive Fitness Center Management System (Full MERN Stack)",
+  "scripts": {
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "test": "cd backend && npm test",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": ["mern", "fitness", "gym-management", "fitsync", "mongodb", "react"],
+  "author": "FitSync Development Team",
+  "license": "ISC"
+}
+
